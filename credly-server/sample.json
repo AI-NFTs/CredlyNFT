@@ -1,0 +1,13 @@
+{
+  "name": "BUIDL IT DAO Community NFT #1",
+  "description": "This is the official community NFT for the BUIDL DAO, a premier community focused on onboarding the next-generation of developers to the Polygon Network.",
+  "image_url": "https://bafybeih6mcn5mdgzwkluhjuug6go62fqbscc2hstsrx4vbtc6fspfps6ha.ipfs.w3s.link/6.png",
+  "attributes": [
+    { "trait_type": "Protocol XP", "value": 1.0 },
+    { "trait_type": "Developer XP", "value": 1.0 },
+    { "trait_type": "Community XP", "value": 3.0 },
+    { "trait_type": "Total XP", "value": 5.0 },
+    { "trait_type": "Rank", "value": 1 },
+    { "trait_type": "Tier", "value": "Platinum" }
+  ]
+}
